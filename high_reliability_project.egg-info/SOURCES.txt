@@ -1,0 +1,11 @@
+setup.py
+high_reliability_project.egg-info/PKG-INFO
+high_reliability_project.egg-info/SOURCES.txt
+high_reliability_project.egg-info/dependency_links.txt
+high_reliability_project.egg-info/top_level.txt
+src/__init__.py
+src/core/__init__.py
+src/core/math_ops.py
+src/services/__init__.py
+tests/__init__.py
+tests/test_math_ops.py
